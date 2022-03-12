@@ -8,7 +8,7 @@
       <input name="post-title" type="text" value="{{post.title}}" />
     </div>
     <div>
-      {{post_content}} by you on {{format_date post.created_at}}
+      {{technology}} {{description}} {{salary}} {{contact_email}} by you on {{format_date post.created_at}}
       |
       <a href="/post/{{post.id}}">{{post.comments.length}} {{format_plural "comment" post.comments.length}}</a>
     </div>
