@@ -18,11 +18,11 @@ a {
 }
 
 a:hover {
-  color: #3486eb;
+  color: #04412c;
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #11a07c;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #11a07c;
 }
 
 .post-list {
@@ -49,7 +49,7 @@ textarea, input {
 
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #3486eb;
+  border: 1px solid #11a07c;
 }
 
 textarea {
