@@ -22,6 +22,7 @@ SPARTAN SEARCH is a platform for bootcamp graduates who are looking to obtain em
 * MERN
 * express-session
 * Heroku
+* ESLint
 
 ## Website
 
