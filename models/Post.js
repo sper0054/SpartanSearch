@@ -29,7 +29,7 @@ Post.init(
     },
     contact_email: {
         type: DataTypes.STRING,
-        allownull: false
+        allownull: true
     },
     user_id: {
       type: DataTypes.INTEGER,
