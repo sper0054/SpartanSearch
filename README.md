@@ -27,6 +27,8 @@ SPARTAN SEARCH is a platform for bootcamp graduates who are looking to obtain em
 
 https://limitless-island-48434.herokuapp.com/
 
+![Spartan Search screen shot](https://github.com/sper0054/SpartanSearch/blob/main/screenshot.png)
+
 ### Installation
 
 It is best practice to directly clone the respository by using the following code in your Terminal/Command Line:
