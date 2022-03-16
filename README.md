@@ -25,7 +25,7 @@ SPARTAN SEARCH is a platform for bootcamp graduates who are looking to obtain em
 
 ## Website
 
-https://stark-beach-14854.herokuapp.com/
+https://limitless-island-48434.herokuapp.com/
 
 ### Installation
 
