@@ -38,10 +38,7 @@ You can also download the files into a .zip directly from the GitHub repository:
 https://github.com/sper0054/SpartanSearch
 
 ### Usage
-
-// What is the usage
-
-![screenshot of the site's hero section]
+Spartan Search allows users to sign-up, login, and logout to review, create, edit, comment, and delete job positings.
 
 ## Contribution
 Edited by Brandon, Sara, Teresa, and Karaun
