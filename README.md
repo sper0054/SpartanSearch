@@ -14,6 +14,7 @@ SPARTAN SEARCH is a platform for bootcamp graduates who are looking to obtain em
 
 ## Built With
 
+* CSS
 * JavaScript
 * Handlebars.js
 * Node.js
